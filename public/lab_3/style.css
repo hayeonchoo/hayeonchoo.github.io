@@ -20,8 +20,9 @@ body {
 /* || typography */
 
 h1, h2, h3 {
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Kufam', cursive;
   color: #2a2a2a;
+  font-weight: 800;
 }
 
 p, input, li {
@@ -60,7 +61,7 @@ p, li {
 }
 
 body > * {
-  background-color: red;
+  background-color: blue;
   padding: 1%;
 }
 
