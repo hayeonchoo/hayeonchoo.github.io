@@ -16,11 +16,7 @@ app.use(express.static('public'));
 app.route('/api')
   .get((req, res) => {
     console.log('GET request detected');
-<<<<<<< HEAD
-    
-=======
     res.send(`Lab 5 for ${process.env.NAME}`);
->>>>>>> 216f73718e5015343209d6fbf68c1524d56e6ab2
   })
   .post((req, res) => {
     console.log('POST request detected');
