@@ -1,6 +1,11 @@
 .header {
     background-color: cornflowerblue;
 }
+
 .wrapper {
     background-color: navajowhite;
+}
+
+.secondheader {
+    background-color: peachpuff;
 }
