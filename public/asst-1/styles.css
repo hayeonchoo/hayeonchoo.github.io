@@ -69,7 +69,7 @@ h1, h2{
     align-items: center;
 }
 .text {
-    background-color: white;
+    background-color: peachpuff;
 }
 @media screen and (max-width:1000px ){
     .container{
