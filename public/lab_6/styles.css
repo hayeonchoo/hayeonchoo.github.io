@@ -1,6 +1,6 @@
 /*CSS*/
 body {
-  background: #3895a8;
+  background: #e7e19b;
 }
 
 .wrapper {
@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-  color: #fff;
+  color: rgb(170, 118, 157);
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
